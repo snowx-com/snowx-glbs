@@ -1,0 +1,512 @@
+{
+    "version": "1653041662",
+    "whatsnew": "Added environments for the first artwork element",
+    "collections": [
+        {
+            "collection": {
+                "title": "SnowX Featured",
+                "cover": "url",
+                "icon": "url"
+            },
+            "artworks": [
+                {
+                    "title": "Busto Costume Tradizionale",
+                    "creator": {
+                        "name": "Giuseppe Delogu",
+                        "description": "",
+                        "urls": {
+                            "picture": "url",
+                            "twitter": "giuseppedelogu",
+                            "instagram": "giuseppe_delogu___",
+                            "discord": "url"
+                        }
+                    },
+                    "description": "Busto Costume Tradizionale",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "environments": {
+                        "background": {
+                            "color": "#ffffff"
+                        },
+                        "lightings": [
+                            {
+                                "color": "#ffffff",
+                                "distance": 10,
+                                "offset": {
+                                    "x": 10,
+                                    "y": 10,
+                                    "z": 10
+                                }
+                            }
+                        ]
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/busto-costume-tradizionale.glb",
+                        "glb-gz": "https://github.com/snowx-com/snowx-glbs/raw/main/busto-costume-tradizionale.glb.gz",
+                        "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/busto-costume-tradizionale.png"
+                    }
+                },
+                {
+                    "title": "Aqua Tiger",
+                    "creator": {
+                        "name": "Kudo Albus",
+                        "description": "VR artist. TiltBrush show creator for HTC VIVE in 2017. Provide MultiBrush tutorials for the Pico VR user community.",
+                        "urls": {
+                            "picture": "url",
+                            "twitter": "url",
+                            "instagram": "url",
+                            "discord": "url"
+                        }
+                    },
+                    "description": "VR artist. TiltBrush show creator for HTC VIVE in 2017. Provide MultiBrush tutorials for the Pico VR user community.",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/aqua_tiger.glb",
+                        "glb-gz": "https://github.com/snowx-com/snowx-glbs/raw/main/aqua_tiger.glb.gz",
+                        "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/aqua_tiger.png"
+                    }
+                },
+                {
+                    "title": "Blue Diadem",
+                    "creator": {
+                        "name": "Jacki Clark",
+                        "description": "Multidisciplinary Artist exploring VR AR @tiltbrush  #Immersiveart #360 #vrartist #vrart # #xr #augmentedart",
+                        "urls": {
+                            "picture": "url",
+                            "twitter": "url",
+                            "instagram": "url",
+                            "discord": "url"
+                        }
+                    },
+                    "description": "Multidisciplinary Artist exploring VR AR @tiltbrush  #Immersiveart #360 #vrartist #vrart # #xr #augmentedart",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/Beltane.glb",
+                        "glb-gz": "https://github.com/snowx-com/snowx-glbs/raw/main/Beltane.glb.gz",
+                        "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/Beltane.png"
+                    }
+                },
+                {
+                    "title": "Visit a friend",
+                    "creator": {
+                        "name": "Dongsuk Lee",
+                        "description": "I majored in ink painting, but since a few years ago, I have been painting in a virtual reality space. It mainly contains things that can be seen and felt in nature or phenomena occurring in the environment.",
+                        "urls": {
+                            "picture": "url",
+                            "twitter": "Suk_VR_Art",
+                            "instagram": "suk_vr_art",
+                            "discord": "url"
+                        }
+                    },
+                    "description": "An old picture was put in a virtual reality 3D space. Contrary to the feeling of being seen on a flat surface, I can enter the space and meet them.",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/Visit_a_friend.glb",
+                        "glb-gz": "https://github.com/snowx-com/snowx-glbs/raw/main/Visit_a_friend.glb.gz",
+                        "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/Visit_a_friend.jpg"
+                    }
+                },
+                {
+                    "title": "Volcano goddess Pele",
+                    "creator": {
+                        "name": "Mana",
+                        "description": "San Diego based Virtual and Mixed Reality artist with a love for nature, animals, and all things solarpunk.",
+                        "urls": {
+                            "picture": "url",
+                            "twitter": "url",
+                            "instagram": "sena_day",
+                            "discord": "url"
+                        }
+                    },
+                    "description": "Pele the Hawaiian goddess of volcanoes and fire, known as the mythological creator of the Hawaiian islands. Created in virtual reality with Tilt Brush.",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/volcano+goddess+Pele.glb",
+                        "glb-gz": "https://github.com/snowx-com/snowx-glbs/raw/main/volcano+goddess+Pele.glb.gz",
+                        "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/volcano+goddess+Pele.png"
+                    }
+                },
+                {
+                    "title": "Brazilian native girl",
+                    "creator": {
+                        "name": "Day Sena",
+                        "description": "",
+                        "urls": {
+                            "picture": "url",
+                            "twitter": "url",
+                            "instagram": "sena_day",
+                            "discord": "url"
+                        }
+                    },
+                    "description": "text",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/Brazilian_native_girl_daysena.glb",
+                        "glb-gz": "https://github.com/snowx-com/snowx-glbs/raw/main/Brazilian_native_girl_daysena.glb.gz",
+                        "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/Brazilian_native_girl_daysena.png"
+                    }
+                }
+            ]
+        },
+        {
+            "collection": {
+                "title": "environment test",
+                "cover": "url",
+                "icon": "url"
+            },
+            "artworks": [
+                {
+                    "title": "Busto Costume Tradizionale",
+                    "creator": {
+                        "name": "Giuseppe Delogu",
+                        "description": "",
+                        "urls": {
+                            "picture": "url",
+                            "twitter": "giuseppedelogu",
+                            "instagram": "giuseppe_delogu___",
+                            "discord": "url"
+                        }
+                    },
+                    "description": "Busto Costume Tradizionale",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/busto-costume-tradizionale.glb",
+                        "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/busto-costume-tradizionale.png"
+                    },
+                    "environments": {
+                        "background": {
+                            "color": "#ffffff"
+                        },
+                        "lightings": [
+                            {
+                                "color": "#ffffff",
+                                "distance": 10,
+                                "offset": {
+                                    "x": 10,
+                                    "y": 10,
+                                    "z": 10
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Busto Costume Tradizionale",
+                    "creator": {
+                        "name": "Giuseppe Delogu",
+                        "description": "",
+                        "urls": {
+                            "picture": "url",
+                            "twitter": "giuseppedelogu",
+                            "instagram": "giuseppe_delogu___",
+                            "discord": "url"
+                        }
+                    },
+                    "description": "Busto Costume Tradizionale",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/busto-costume-tradizionale.glb",
+                        "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/busto-costume-tradizionale.png"
+                    },
+                    "environments": {
+                        "background": {
+                            "color": "#aaffaa"
+                        },
+                        "lightings": [
+                            {
+                                "color": "#ffaaaa",
+                                "distance": 10,
+                                "offset": {
+                                    "x": 10,
+                                    "y": 10,
+                                    "z": 10
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "collection": {
+                "title": "my favorite",
+                "cover": "url",
+                "icon": "url"
+            },
+            "artworks": []
+        },
+        {
+            "collection": {
+                "title": "LIFE is inc. collection",
+                "cover": "url",
+                "icon": "url"
+            },
+            "artworks": [
+                {
+                    "title": "Volcano goddess Pele",
+                    "creator": {
+                        "name": "Mana",
+                        "description": "My name is SaRaN, a VR artist. In June 2020, I was impressed by seeing the VR art work of Japanese VR artist Aimi Sekiguchi on Twitter, and started drawing VR art works from August 2020.  And then I was scouted at June 2021. From September 2021, I belong to LIFE is Inc. as a VR artist. From now on, I want to convey the wonderfulness of VR art more and more!",
+                        "urls": {
+                            "picture": "url",
+                            "twitter": "saran_vrart",
+                            "instagram": "saran_vrart",
+                            "discord": "url"
+                        }
+                    },
+                    "description": "Pele the Hawaiian goddess of volcanoes and fire, known as the mythological creator of the Hawaiian islands. Created in virtual reality with Tilt Brush.",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/butoukai.glb",
+                        "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/butoukai.png"
+                    }
+                },
+                {
+                    "title": "AKA-ZONAE",
+                    "creator": {
+                        "name": "hiyoko-shisho",
+                        "description": "Japanese VR artist, born in 1987.He had never drawn before, but after encountering VR art in November 2019, he taught himself the technique. He is determined to draw VR art until he dies in order to materialize the world inside of him.",
+                        "urls": {
+                            "picture": "url",
+                            "twitter": "Piyo_master",
+                            "instagram": "hiyoko_vr",
+                            "discord": "url"
+                        }
+                    },
+                    "description": "I created a samurai robot based on the motif of AKA-ZONAE(red-armor).The AKA-ZONAE was an actual military formation during the Warring States period in Japan, and was often an elite unit led by a military commander who excelled in bravery, and was passed down to future generations as a symbol of the honor of bravery.",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/akazonae.glb",
+                        "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/akazonae.png"
+                    }
+                }
+            ]
+        },
+        {
+            "collection": {
+                "title": "Test Arts",
+                "cover": "url",
+                "icon": "url"
+            },
+            "artworks": [
+                {
+                    "title": "line.glb",
+                    "creator": {
+                        "name": "Mana",
+                        "description": "My name is SaRaN, a VR artist. In June 2020, I was impressed by seeing the VR art work of Japanese VR artist Aimi Sekiguchi on Twitter, and started drawing VR art works from August 2020.  And then I was scouted at June 2021. From September 2021, I belong to LIFE is Inc. as a VR artist. From now on, I want to convey the wonderfulness of VR art more and more!",
+                        "urls": {
+                            "picture": "url",
+                            "twitter": "saran_vrart",
+                            "instagram": "saran_vrart",
+                            "discord": "url"
+                        }
+                    },
+                    "description": "Pele the Hawaiian goddess of volcanoes and fire, known as the mythological creator of the Hawaiian islands. Created in virtual reality with Tilt Brush.",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/line.glb",
+                        "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/butoukai.png"
+                    }
+                },
+                {
+                    "title": "AKA-ZONAE",
+                    "creator": {
+                        "name": "hiyoko-shisho",
+                        "description": "Japanese VR artist, born in 1987.He had never drawn before, but after encountering VR art in November 2019, he taught himself the technique. He is determined to draw VR art until he dies in order to materialize the world inside of him.",
+                        "urls": {
+                            "picture": "url",
+                            "twitter": "Piyo_master",
+                            "instagram": "hiyoko_vr",
+                            "discord": "url"
+                        }
+                    },
+                    "description": "I created a samurai robot based on the motif of AKA-ZONAE(red-armor).The AKA-ZONAE was an actual military formation during the Warring States period in Japan, and was often an elite unit led by a military commander who excelled in bravery, and was passed down to future generations as a symbol of the honor of bravery.",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/akazonae.glb",
+                        "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/akazonae.png"
+                    }
+                }
+            ]
+        }
+    ]
+}
