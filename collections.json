@@ -1,5 +1,5 @@
 {
-    "version": "1653206528",
+    "version": "1653748567",
     "chainId": 4,
     "whatsnew": "Artwork from Google form",
     "collections": [
@@ -12,7 +12,8 @@
             "artworks": [
                 {
                     "title": "Busto Costume Tradizionale",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "Giuseppe Delogu",
                         "description": "",
@@ -64,7 +65,8 @@
                 },
                 {
                     "title": "Aqua Tiger",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "Kudo Albus",
                         "description": "VR artist. TiltBrush show creator for HTC VIVE in 2017. Provide MultiBrush tutorials for the Pico VR user community.",
@@ -100,7 +102,8 @@
                 },
                 {
                     "title": "Blue Diadem",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "Jacki Clark",
                         "description": "Multidisciplinary Artist exploring VR AR @tiltbrush  #Immersiveart #360 #vrartist #vrart # #xr #augmentedart",
@@ -136,7 +139,8 @@
                 },
                 {
                     "title": "Visit a friend",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "Dongsuk Lee",
                         "description": "I majored in ink painting, but since a few years ago, I have been painting in a virtual reality space. It mainly contains things that can be seen and felt in nature or phenomena occurring in the environment.",
@@ -172,7 +176,8 @@
                 },
                 {
                     "title": "Volcano goddess Pele",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "Mana",
                         "description": "San Diego based Virtual and Mixed Reality artist with a love for nature, animals, and all things solarpunk.",
@@ -208,7 +213,8 @@
                 },
                 {
                     "title": "Brazilian native girl",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "Day Sena",
                         "description": "",
@@ -253,7 +259,8 @@
             "artworks": [
                 {
                     "title": "Busto Costume Tradizionale",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "Giuseppe Delogu",
                         "description": "",
@@ -304,7 +311,8 @@
                 },
                 {
                     "title": "Busto Costume Tradizionale",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "Giuseppe Delogu",
                         "description": "",
@@ -372,7 +380,8 @@
             "artworks": [
                 {
                     "title": "Volcano goddess Pele",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "Mana",
                         "description": "My name is SaRaN, a VR artist. In June 2020, I was impressed by seeing the VR art work of Japanese VR artist Aimi Sekiguchi on Twitter, and started drawing VR art works from August 2020.  And then I was scouted at June 2021. From September 2021, I belong to LIFE is Inc. as a VR artist. From now on, I want to convey the wonderfulness of VR art more and more!",
@@ -407,7 +416,8 @@
                 },
                 {
                     "title": "AKA-ZONAE",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "hiyoko-shisho",
                         "description": "Japanese VR artist, born in 1987.He had never drawn before, but after encountering VR art in November 2019, he taught himself the technique. He is determined to draw VR art until he dies in order to materialize the world inside of him.",
@@ -451,7 +461,8 @@
             "artworks": [
                 {
                     "title": "line.glb",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "Mana",
                         "description": "My name is SaRaN, a VR artist. In June 2020, I was impressed by seeing the VR art work of Japanese VR artist Aimi Sekiguchi on Twitter, and started drawing VR art works from August 2020.  And then I was scouted at June 2021. From September 2021, I belong to LIFE is Inc. as a VR artist. From now on, I want to convey the wonderfulness of VR art more and more!",
@@ -486,7 +497,8 @@
                 },
                 {
                     "title": "AKA-ZONAE",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "hiyoko-shisho",
                         "description": "Japanese VR artist, born in 1987.He had never drawn before, but after encountering VR art in November 2019, he taught himself the technique. He is determined to draw VR art until he dies in order to materialize the world inside of him.",
@@ -530,7 +542,8 @@
             "artworks": [
                 {
                     "title": "Blue Diadem",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "JackiVR",
                         "description": "I am an XR fine artist working cross platform, predominantly in Virtual Reality and Augmented Reality. I have had my work included in exhibitions online and worldwide recently Moscow, San Diego and Atlanta and create Augmented Reality trails in the UK.",
@@ -565,7 +578,8 @@
                 },
                 {
                     "title": "Beltane",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "JackiVR",
                         "description": "I am an XR fine artist working cross platform, predominantly in Virtual Reality and Augmented Reality. I have had my work included in exhibitions online and worldwide recently Moscow, San Diego and Atlanta and create Augmented Reality trails in the UK.",
@@ -600,7 +614,8 @@
                 },
                 {
                     "title": "Tunnicliffe Hare",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "JackiVR",
                         "description": "I am an XR fine artist working cross platform, predominantly in Virtual Reality and Augmented Reality. I have had my work included in exhibitions online and worldwide recently Moscow, San Diego and Atlanta and create Augmented Reality trails in the UK.",
@@ -635,7 +650,8 @@
                 },
                 {
                     "title": "Eve and the Apple",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "JackiVR",
                         "description": "I am an XR fine artist working cross platform, predominantly in Virtual Reality and Augmented Reality. I have had my work included in exhibitions online and worldwide recently Moscow, San Diego and Atlanta and create Augmented Reality trails in the UK.",
@@ -670,7 +686,8 @@
                 },
                 {
                     "title": "The Cheshire Cat",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "JackiVR",
                         "description": "I am an XR fine artist working cross platform, predominantly in Virtual Reality and Augmented Reality. I have had my work included in exhibitions online and worldwide recently Moscow, San Diego and Atlanta and create Augmented Reality trails in the UK.",
@@ -705,7 +722,8 @@
                 },
                 {
                     "title": "Lughnasadh",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "JackiVR",
                         "description": "I am an XR fine artist working cross platform, predominantly in Virtual Reality and Augmented Reality. I have had my work included in exhibitions online and worldwide recently Moscow, San Diego and Atlanta and create Augmented Reality trails in the UK.",
@@ -740,7 +758,8 @@
                 },
                 {
                     "title": "Abracadabra",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "Sara Phinn",
                         "description": "Sara Phinn is an artist working in the psychedelic visionary genre constructing artifacts, worlds, and experiences in VR.",
@@ -775,7 +794,8 @@
                 },
                 {
                     "title": "Entity's Latent Space Craft",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "Bård Ionson",
                         "description": "An artist exploring the distortions between realities using old & new technology. He has exhibited art in Dubai, Italy, Paris, New York, Denver, Berlin, Washington DC and everywhere on the blockchain. This art includes 3D, projection mapping and augmented reality pieces using oscilloscopes, scanners and artificial intelligence.",
@@ -810,7 +830,8 @@
                 },
                 {
                     "title": "FoxyVR",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "Clemence Powney",
                         "description": "Clemence Powney is a French/British art performer. She specializes in painting and VR Art performances around the world.",
@@ -845,7 +866,8 @@
                 },
                 {
                     "title": "Black Swan",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "Raritie",
                         "description": "VR Artist based in Germany",
@@ -880,7 +902,8 @@
                 },
                 {
                     "title": "Fish tank",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "NINA",
                         "description": "Hi I’m 9yrs old VR artist NINA. My world is kinda of unique. I'm expressing it in VR.",
@@ -915,7 +938,8 @@
                 },
                 {
                     "title": "fudo myoo",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "YAMAKEI",
                         "description": "Japanese VRartist",
@@ -950,7 +974,8 @@
                 },
                 {
                     "title": "PHOENIX",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "YAMAKEI",
                         "description": "Japanese VRartist",
@@ -985,7 +1010,8 @@
                 },
                 {
                     "title": "Pachamama",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "Metatronix",
                         "description": "Metatronix, AKA Angelea Torralva, is a multifaceted self taught artist from Grand Rapids, Michigan. Art in all forms has always been her passion. Torralva started her live painting journey in 2013, painting at all kinds of EDM and DNB events/festivals, which has also included live body painting. Torralva is an established artist in Grand Rapids, Michigan and has had solo and group art shows, as well as an AR/VR exhibit in LA, California. Virtual and augmented reality is her current venture as she hopes to create more immersive and live experiences.",
@@ -1020,7 +1046,8 @@
                 },
                 {
                     "title": "Dryad - Tree Spirit",
-                    "price": "12 ETH",
+                    "price": 12,
+                    "priceType": "ETH",
                     "creator": {
                         "name": "SpectralMana",
                         "description": "VR/XR artist working on artworks inspired by nature and technology. Much of my work is also designed for audio reactivity.",
