@@ -1,0 +1,52 @@
+{
+  "version": "1654087189",
+  "chainId": 4,
+  "whatsnew": "Artwork from Google form",
+  "collections": [
+    {
+      "collection": {
+        "title": "GDrive Arts",
+        "cover": "url",
+        "icon": "url"
+      },
+      "artworks": [
+        {
+          "title": "Fish tank",
+          "price": 12,
+          "priceType": "ETH",
+          "creator": {
+            "name": "NINA",
+            "description": "Hi I’m 9yrs old VR artist NINA. My world is kinda of unique. I'm expressing it in VR.",
+            "urls": {
+              "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/NINA.jpg",
+              "twitter": "",
+              "instagram": "",
+              "discord": ""
+            }
+          },
+          "description": "I wanted to draw this because I’m obsessed with fish and made it orange because orange is hot!",
+          "originFileGenerator": "Tilt Brush",
+          "objectData": {
+            "name": "text",
+            "offsets": {
+              "position": {
+                "x": 10,
+                "y": 10,
+                "z": 10
+              },
+              "localScale": {
+                "x": 10,
+                "y": 10,
+                "z": 10
+              }
+            }
+          },
+          "urls": {
+            "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/Untitled_10%20-%20erika%20baruwa.glb",
+            "thumbnail": ""
+          }
+        }
+      ]
+    }
+  ]
+}

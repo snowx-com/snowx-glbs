@@ -1,0 +1,52 @@
+{
+  "version": "1654087189",
+  "chainId": 4,
+  "whatsnew": "Artwork from Google form",
+  "collections": [
+    {
+      "collection": {
+        "title": "GDrive Arts",
+        "cover": "url",
+        "icon": "url"
+      },
+      "artworks": [
+        {
+          "title": "Dryad - Tree Spirit",
+          "price": 12,
+          "priceType": "ETH",
+          "creator": {
+            "name": "SpectralMana",
+            "description": "VR/XR artist working on artworks inspired by nature and technology. Much of my work is also designed for audio reactivity.",
+            "urls": {
+              "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/SpectralMana.jpg",
+              "twitter": "",
+              "instagram": "",
+              "discord": ""
+            }
+          },
+          "description": "This is a dryad, a spirit living within a tree. If sold 10% of the sale will go towards TheGivingBlock's environmental impact fund.",
+          "originFileGenerator": "Tilt Brush",
+          "objectData": {
+            "name": "text",
+            "offsets": {
+              "position": {
+                "x": 10,
+                "y": 10,
+                "z": 10
+              },
+              "localScale": {
+                "x": 10,
+                "y": 10,
+                "z": 10
+              }
+            }
+          },
+          "urls": {
+            "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/SpectralMana_Dryad%20-%20Mana%20M.glb",
+            "thumbnail": ""
+          }
+        }
+      ]
+    }
+  ]
+}

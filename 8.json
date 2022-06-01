@@ -1,0 +1,52 @@
+{
+  "version": "1654087189",
+  "chainId": 4,
+  "whatsnew": "Artwork from Google form",
+  "collections": [
+    {
+      "collection": {
+        "title": "GDrive Arts",
+        "cover": "url",
+        "icon": "url"
+      },
+      "artworks": [
+        {
+          "title": "Entity's Latent Space Craft",
+          "price": 12,
+          "priceType": "ETH",
+          "creator": {
+            "name": "Bård Ionson",
+            "description": "An artist exploring the distortions between realities using old & new technology. He has exhibited art in Dubai, Italy, Paris, New York, Denver, Berlin, Washington DC and everywhere on the blockchain. This art includes 3D, projection mapping and augmented reality pieces using oscilloscopes, scanners and artificial intelligence.",
+            "urls": {
+              "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/Bard_Ionson.png",
+              "twitter": "",
+              "instagram": "",
+              "discord": ""
+            }
+          },
+          "description": "The Entity travels through time in this latent space craft. They are from the far future from what used to be earth. They have evolved the ability to travel through our ancient computer networks. This is one representation of The Entity they have adopted based on their study of human documentaries on alien life. Is The Entity friendly or hostile to the humans? sageAnomaly.com",
+          "originFileGenerator": "Tilt Brush",
+          "objectData": {
+            "name": "text",
+            "offsets": {
+              "position": {
+                "x": 10,
+                "y": 10,
+                "z": 10
+              },
+              "localScale": {
+                "x": 10,
+                "y": 10,
+                "z": 10
+              }
+            }
+          },
+          "urls": {
+            "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/ufoSpinFinalPalette%20-%20Bard%20Ionson.glb",
+            "thumbnail": ""
+          }
+        }
+      ]
+    }
+  ]
+}

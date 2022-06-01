@@ -1,0 +1,52 @@
+{
+  "version": "1654087189",
+  "chainId": 4,
+  "whatsnew": "Artwork from Google form",
+  "collections": [
+    {
+      "collection": {
+        "title": "GDrive Arts",
+        "cover": "url",
+        "icon": "url"
+      },
+      "artworks": [
+        {
+          "title": "Abracadabra",
+          "price": 12,
+          "priceType": "ETH",
+          "creator": {
+            "name": "Sara Phinn",
+            "description": "Sara Phinn is an artist working in the psychedelic visionary genre constructing artifacts, worlds, and experiences in VR.",
+            "urls": {
+              "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/Sara_Phinn.jpg",
+              "twitter": "",
+              "instagram": "https://www.instagram.com/dreamseed_vr/",
+              "discord": ""
+            }
+          },
+          "description": "Geometric structure made of the magical word Abracadabra",
+          "originFileGenerator": "Tilt Brush",
+          "objectData": {
+            "name": "text",
+            "offsets": {
+              "position": {
+                "x": 10,
+                "y": 10,
+                "z": 10
+              },
+              "localScale": {
+                "x": 10,
+                "y": 10,
+                "z": 10
+              }
+            }
+          },
+          "urls": {
+            "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/Untitled_78%20-%20Sara%20Phinn.glb",
+            "thumbnail": ""
+          }
+        }
+      ]
+    }
+  ]
+}

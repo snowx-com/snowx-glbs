@@ -1,0 +1,52 @@
+{
+  "version": "1654087189",
+  "chainId": 4,
+  "whatsnew": "Artwork from Google form",
+  "collections": [
+    {
+      "collection": {
+        "title": "GDrive Arts",
+        "cover": "url",
+        "icon": "url"
+      },
+      "artworks": [
+        {
+          "title": "FoxyVR",
+          "price": 12,
+          "priceType": "ETH",
+          "creator": {
+            "name": "Clemence Powney",
+            "description": "Clemence Powney is a French/British art performer. She specializes in painting and VR Art performances around the world.",
+            "urls": {
+              "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/Clemence_Powney.jpg",
+              "twitter": "",
+              "instagram": "",
+              "discord": ""
+            }
+          },
+          "description": "A colourful fox - first of a series of colourful NFT animals. Created with OpenBrush",
+          "originFileGenerator": "Tilt Brush",
+          "objectData": {
+            "name": "text",
+            "offsets": {
+              "position": {
+                "x": 10,
+                "y": 10,
+                "z": 10
+              },
+              "localScale": {
+                "x": 10,
+                "y": 10,
+                "z": 10
+              }
+            }
+          },
+          "urls": {
+            "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/FoxyVR%20-%20Clemence%20Powney.glb",
+            "thumbnail": ""
+          }
+        }
+      ]
+    }
+  ]
+}

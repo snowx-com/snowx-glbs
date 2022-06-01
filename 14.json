@@ -1,0 +1,52 @@
+{
+  "version": "1654087189",
+  "chainId": 4,
+  "whatsnew": "Artwork from Google form",
+  "collections": [
+    {
+      "collection": {
+        "title": "GDrive Arts",
+        "cover": "url",
+        "icon": "url"
+      },
+      "artworks": [
+        {
+          "title": "Pachamama",
+          "price": 12,
+          "priceType": "ETH",
+          "creator": {
+            "name": "Metatronix",
+            "description": "Metatronix, AKA Angelea Torralva, is a multifaceted self taught artist from Grand Rapids, Michigan. Art in all forms has always been her passion. Torralva started her live painting journey in 2013, painting at all kinds of EDM and DNB events/festivals, which has also included live body painting. Torralva is an established artist in Grand Rapids, Michigan and has had solo and group art shows, as well as an AR/VR exhibit in LA, California. Virtual and augmented reality is her current venture as she hopes to create more immersive and live experiences.",
+            "urls": {
+              "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/Metatronix.jpg",
+              "twitter": "",
+              "instagram": "",
+              "discord": ""
+            }
+          },
+          "description": "A depiction of the Goddess, Pachamama, or Mother Earth. She is an Incan deity who presides over planting and harvesting, represents fertility, embodies the mountains and causes earthquakes.",
+          "originFileGenerator": "Tilt Brush",
+          "objectData": {
+            "name": "text",
+            "offsets": {
+              "position": {
+                "x": 10,
+                "y": 10,
+                "z": 10
+              },
+              "localScale": {
+                "x": 10,
+                "y": 10,
+                "z": 10
+              }
+            }
+          },
+          "urls": {
+            "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/Pachamama%20GLB%20-%20Angelea%20Torralva.glb",
+            "thumbnail": ""
+          }
+        }
+      ]
+    }
+  ]
+}

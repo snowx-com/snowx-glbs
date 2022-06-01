@@ -1,0 +1,52 @@
+{
+  "version": "1654087189",
+  "chainId": 4,
+  "whatsnew": "Artwork from Google form",
+  "collections": [
+    {
+      "collection": {
+        "title": "GDrive Arts",
+        "cover": "url",
+        "icon": "url"
+      },
+      "artworks": [
+        {
+          "title": "Black Swan",
+          "price": 12,
+          "priceType": "ETH",
+          "creator": {
+            "name": "Raritie",
+            "description": "VR Artist based in Germany",
+            "urls": {
+              "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/Raritie.jpg",
+              "twitter": "",
+              "instagram": "",
+              "discord": ""
+            }
+          },
+          "description": "Inspired by the movie Black Swan. Created with Tilt Brush / Open Brush. Model created in DAZ3D",
+          "originFileGenerator": "Tilt Brush",
+          "objectData": {
+            "name": "text",
+            "offsets": {
+              "position": {
+                "x": 10,
+                "y": 10,
+                "z": 10
+              },
+              "localScale": {
+                "x": 10,
+                "y": 10,
+                "z": 10
+              }
+            }
+          },
+          "urls": {
+            "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/raritie_black_swan%20-%20Alena%20Gudorova.glb",
+            "thumbnail": ""
+          }
+        }
+      ]
+    }
+  ]
+}

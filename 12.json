@@ -1,0 +1,52 @@
+{
+  "version": "1654087189",
+  "chainId": 4,
+  "whatsnew": "Artwork from Google form",
+  "collections": [
+    {
+      "collection": {
+        "title": "GDrive Arts",
+        "cover": "url",
+        "icon": "url"
+      },
+      "artworks": [
+        {
+          "title": "fudo myoo",
+          "price": 12,
+          "priceType": "ETH",
+          "creator": {
+            "name": "YAMAKEI",
+            "description": "Japanese VRartist",
+            "urls": {
+              "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/YAMAKEI.jpg",
+              "twitter": "",
+              "instagram": "",
+              "discord": ""
+            }
+          },
+          "description": "The Acala (Fudo Myoo) is one of the powerful deities known as the Five Bright Kings in Japanese Buddhism and folk religion.",
+          "originFileGenerator": "Tilt Brush",
+          "objectData": {
+            "name": "text",
+            "offsets": {
+              "position": {
+                "x": 10,
+                "y": 10,
+                "z": 10
+              },
+              "localScale": {
+                "x": 10,
+                "y": 10,
+                "z": 10
+              }
+            }
+          },
+          "urls": {
+            "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/Untitled_49%20-%20YAMAKEI.glb",
+            "thumbnail": ""
+          }
+        }
+      ]
+    }
+  ]
+}
