@@ -11,42 +11,6 @@
             },
             "artworks": [
                 {
-                    "title": "Blue Diadem",
-                    "price": 12,
-                    "priceType": "ETH",
-                    "creator": {
-                        "name": "JackiVR",
-                        "description": "I am an XR fine artist working cross platform, predominantly in Virtual Reality and Augmented Reality. I have had my work included in exhibitions online and worldwide recently Moscow, San Diego and Atlanta and create Augmented Reality trails in the UK.",
-                        "urls": {
-                            "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/JackiVR.jpg",
-                            "twitter": "",
-                            "instagram": "",
-                            "discord": ""
-                        }
-                    },
-                    "description": "This is a Virtual Reality sculpture created in Google Tilt Brush of a Blue Diadem butterfly Hypolimnas salmacis.",
-                    "originFileGenerator": "Tilt Brush",
-                    "objectData": {
-                        "name": "text",
-                        "offsets": {
-                            "position": {
-                                "x": 10,
-                                "y": 10,
-                                "z": 10
-                            },
-                            "localScale": {
-                                "x": 10,
-                                "y": 10,
-                                "z": 10
-                            }
-                        }
-                    },
-                    "urls": {
-                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/blue%20Diadem%20-%20Jacki%20Clark.glb",
-                        "thumbnail": ""
-                    }
-                },
-                {
                     "title": "Beltane",
                     "price": 12,
                     "priceType": "ETH",
