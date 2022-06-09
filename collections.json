@@ -1,13 +1,13 @@
 {
     "version": "1654319366",
-    "chainId": 4,
-    "whatsnew": "Artwork from Google form",
+    "whatsnew": "purchaseTransactionData",
     "collections": [
         {
             "collection": {
                 "title": "SnowX Featured",
                 "cover": "url",
-                "icon": "url"
+                "icon": "url",
+                "chainId": 4
             },
             "artworks": [
                 {
@@ -61,11 +61,16 @@
                         "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/busto-costume-tradizionale.glb",
                         "glb-gz": "https://github.com/snowx-com/snowx-glbs/raw/main/busto-costume-tradizionale.glb.gz",
                         "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/busto-costume-tradizionale.png"
+                    },
+                    "purchaseTransactionData": {
+                        "data": "0xa1448194000000000000000000000000179974a3f72464949e0269af45cac14fa14daf4b0000000000000000000000000000000000000000000000000000000000000004",
+                        "to": "0x1d556e17437dc72673c518cdbedde29b3848ffb1",
+                        "value": "0"
                     }
                 },
                 {
                     "title": "Aqua Tiger",
-                    "price": 12,
+                    "price": 13,
                     "priceType": "ETH",
                     "creator": {
                         "name": "Kudo Albus",
@@ -102,7 +107,7 @@
                 },
                 {
                     "title": "Blue Diadem",
-                    "price": 12,
+                    "price": 14,
                     "priceType": "ETH",
                     "creator": {
                         "name": "Jacki Clark",
@@ -135,6 +140,11 @@
                         "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/Beltane.glb",
                         "glb-gz": "https://github.com/snowx-com/snowx-glbs/raw/main/Beltane.glb.gz",
                         "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/Beltane.png"
+                    },
+                    "purchaseTransactionData": {
+                        "data": "0xa1448194000000000000000000000000179974a3f72464949e0269af45cac14fa14daf4b0000000000000000000000000000000000000000000000000000000000000004",
+                        "to": "0x1d556e17437dc72673c518cdbedde29b3848ffb1",
+                        "value": "0"
                     }
                 },
                 {
@@ -172,11 +182,16 @@
                         "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/Visit_a_friend.glb",
                         "glb-gz": "https://github.com/snowx-com/snowx-glbs/raw/main/Visit_a_friend.glb.gz",
                         "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/Visit_a_friend.jpg"
+                    },
+                    "purchaseTransactionData": {
+                        "data": "0xa1448194000000000000000000000000179974a3f72464949e0269af45cac14fa14daf4b0000000000000000000000000000000000000000000000000000000000000006",
+                        "to": "0x1d556e17437dc72673c518cdbedde29b3848ffb1",
+                        "value": "0"
                     }
                 },
                 {
                     "title": "Volcano goddess Pele",
-                    "price": 12,
+                    "price": 22,
                     "priceType": "ETH",
                     "creator": {
                         "name": "Mana",
@@ -246,6 +261,11 @@
                         "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/Brazilian_native_girl_daysena.glb",
                         "glb-gz": "https://github.com/snowx-com/snowx-glbs/raw/main/Brazilian_native_girl_daysena.glb.gz",
                         "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/Brazilian_native_girl_daysena.png"
+                    },
+                    "purchaseTransactionData": {
+                        "data": "0xa1448194000000000000000000000000179974a3f72464949e0269af45cac14fa14daf4b0000000000000000000000000000000000000000000000000000000000000007",
+                        "to": "0x1d556e17437dc72673c518cdbedde29b3848ffb1",
+                        "value": "0"
                     }
                 }
             ]
@@ -254,7 +274,8 @@
             "collection": {
                 "title": "environment test",
                 "cover": "url",
-                "icon": "url"
+                "icon": "url",
+                "chainId": 4
             },
             "artworks": [
                 {
@@ -367,7 +388,8 @@
             "collection": {
                 "title": "my favorite",
                 "cover": "url",
-                "icon": "url"
+                "icon": "url",
+                "chainId": 4
             },
             "artworks": []
         },
@@ -456,7 +478,8 @@
             "collection": {
                 "title": "Test Arts",
                 "cover": "url",
-                "icon": "url"
+                "icon": "url",
+                "chainId": 4
             },
             "artworks": [
                 {
