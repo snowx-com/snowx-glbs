@@ -1,5 +1,5 @@
 {
-    "version": "1654319366",
+    "version": "1654845631",
     "chainId": 4,
     "whatsnew": "Artwork from Google form",
     "collections": [
@@ -529,6 +529,554 @@
                     "urls": {
                         "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/akazonae.glb",
                         "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/akazonae.png"
+                    }
+                }
+            ]
+        },         {
+            "collection": {
+                "title": "GDrive Arts",
+                "cover": "url",
+                "icon": "url"
+            },
+            "artworks": [
+                {
+                    "title": "Blue Diadem",
+                    "price": 12,
+                    "priceType": "ETH",
+                    "creator": {
+                        "name": "JackiVR",
+                        "description": "I am an XR fine artist working cross platform, predominantly in Virtual Reality and Augmented Reality. I have had my work included in exhibitions online and worldwide recently Moscow, San Diego and Atlanta and create Augmented Reality trails in the UK.",
+                        "urls": {
+                            "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/JackiVR.jpg",
+                            "twitter": "",
+                            "instagram": "",
+                            "discord": ""
+                        }
+                    },
+                    "description": "This is a Virtual Reality sculpture created in Google Tilt Brush of a Blue Diadem butterfly Hypolimnas salmacis.",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/blue%20Diadem%20-%20Jacki%20Clark.glb",
+                        "thumbnail": ""
+                    }
+                },
+                {
+                    "title": "Beltane",
+                    "price": 12,
+                    "priceType": "ETH",
+                    "creator": {
+                        "name": "JackiVR",
+                        "description": "I am an XR fine artist working cross platform, predominantly in Virtual Reality and Augmented Reality. I have had my work included in exhibitions online and worldwide recently Moscow, San Diego and Atlanta and create Augmented Reality trails in the UK.",
+                        "urls": {
+                            "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/JackiVR.jpg",
+                            "twitter": "",
+                            "instagram": "",
+                            "discord": ""
+                        }
+                    },
+                    "description": "Beltane - celebrating the  coming of Spring and new life. A Virtual Reality sculpture created in Google Tilt Brush",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/Beltane%20-%20Jacki%20Clark.glb",
+                        "thumbnail": ""
+                    }
+                },
+                {
+                    "title": "Tunnicliffe Hare",
+                    "price": 12,
+                    "priceType": "ETH",
+                    "creator": {
+                        "name": "JackiVR",
+                        "description": "I am an XR fine artist working cross platform, predominantly in Virtual Reality and Augmented Reality. I have had my work included in exhibitions online and worldwide recently Moscow, San Diego and Atlanta and create Augmented Reality trails in the UK.",
+                        "urls": {
+                            "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/JackiVR.jpg",
+                            "twitter": "",
+                            "instagram": "",
+                            "discord": ""
+                        }
+                    },
+                    "description": "A hare sitting in the undergrowth- a virtual reality sculpture inspired by the artist Tunnicliffe. Created in a mix of Google Tiltbrush and Openbrush.",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/hare%20-%20Jacki%20Clark.glb",
+                        "thumbnail": ""
+                    }
+                },
+                {
+                    "title": "Eve and the Apple",
+                    "price": 12,
+                    "priceType": "ETH",
+                    "creator": {
+                        "name": "JackiVR",
+                        "description": "I am an XR fine artist working cross platform, predominantly in Virtual Reality and Augmented Reality. I have had my work included in exhibitions online and worldwide recently Moscow, San Diego and Atlanta and create Augmented Reality trails in the UK.",
+                        "urls": {
+                            "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/JackiVR.jpg",
+                            "twitter": "",
+                            "instagram": "",
+                            "discord": ""
+                        }
+                    },
+                    "description": "Modern day Eve? a comic sculptural response in virtual reality. Created in Google Tiltbrush",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/Eveandapple%20-%20Jacki%20Clark.glb",
+                        "thumbnail": ""
+                    }
+                },
+                {
+                    "title": "The Cheshire Cat",
+                    "price": 12,
+                    "priceType": "ETH",
+                    "creator": {
+                        "name": "JackiVR",
+                        "description": "I am an XR fine artist working cross platform, predominantly in Virtual Reality and Augmented Reality. I have had my work included in exhibitions online and worldwide recently Moscow, San Diego and Atlanta and create Augmented Reality trails in the UK.",
+                        "urls": {
+                            "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/JackiVR.jpg",
+                            "twitter": "",
+                            "instagram": "",
+                            "discord": ""
+                        }
+                    },
+                    "description": "The metamorphosis of the Cheshire Cat at Halloween?.... a sculpture created in Virtual Reality in Google Tiltbrush",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/Untitled_566%20-%20Jacki%20Clark.glb",
+                        "thumbnail": ""
+                    }
+                },
+                {
+                    "title": "Lughnasadh",
+                    "price": 12,
+                    "priceType": "ETH",
+                    "creator": {
+                        "name": "JackiVR",
+                        "description": "I am an XR fine artist working cross platform, predominantly in Virtual Reality and Augmented Reality. I have had my work included in exhibitions online and worldwide recently Moscow, San Diego and Atlanta and create Augmented Reality trails in the UK.",
+                        "urls": {
+                            "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/JackiVR.jpg",
+                            "twitter": "",
+                            "instagram": "",
+                            "discord": ""
+                        }
+                    },
+                    "description": "The end of the summer, the harvest begins to be gathered. A virtual reality sculpture created in Openbrush and Google Tiltbrush",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/Untitled_534%20-%20Jacki%20Clark.glb",
+                        "thumbnail": ""
+                    }
+                },
+                {
+                    "title": "Abracadabra",
+                    "price": 12,
+                    "priceType": "ETH",
+                    "creator": {
+                        "name": "Sara Phinn",
+                        "description": "Sara Phinn is an artist working in the psychedelic visionary genre constructing artifacts, worlds, and experiences in VR.",
+                        "urls": {
+                            "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/Sara_Phinn.jpg",
+                            "twitter": "",
+                            "instagram": "https://www.instagram.com/dreamseed_vr/",
+                            "discord": ""
+                        }
+                    },
+                    "description": "Geometric structure made of the magical word Abracadabra",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/Untitled_78%20-%20Sara%20Phinn.glb",
+                        "thumbnail": ""
+                    }
+                },
+                {
+                    "title": "Entity's Latent Space Craft",
+                    "price": 12,
+                    "priceType": "ETH",
+                    "creator": {
+                        "name": "Bård Ionson",
+                        "description": "An artist exploring the distortions between realities using old & new technology. He has exhibited art in Dubai, Italy, Paris, New York, Denver, Berlin, Washington DC and everywhere on the blockchain. This art includes 3D, projection mapping and augmented reality pieces using oscilloscopes, scanners and artificial intelligence.",
+                        "urls": {
+                            "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/Bard_Ionson.png",
+                            "twitter": "",
+                            "instagram": "",
+                            "discord": ""
+                        }
+                    },
+                    "description": "The Entity travels through time in this latent space craft. They are from the far future from what used to be earth. They have evolved the ability to travel through our ancient computer networks. This is one representation of The Entity they have adopted based on their study of human documentaries on alien life. Is The Entity friendly or hostile to the humans? sageAnomaly.com",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/ufoSpinFinalPalette%20-%20Bard%20Ionson.glb",
+                        "thumbnail": ""
+                    }
+                },
+                {
+                    "title": "FoxyVR",
+                    "price": 12,
+                    "priceType": "ETH",
+                    "creator": {
+                        "name": "Clemence Powney",
+                        "description": "Clemence Powney is a French/British art performer. She specializes in painting and VR Art performances around the world.",
+                        "urls": {
+                            "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/Clemence_Powney.jpg",
+                            "twitter": "",
+                            "instagram": "",
+                            "discord": ""
+                        }
+                    },
+                    "description": "A colourful fox - first of a series of colourful NFT animals. Created with OpenBrush",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/FoxyVR%20-%20Clemence%20Powney.glb",
+                        "thumbnail": ""
+                    }
+                },
+                {
+                    "title": "Black Swan",
+                    "price": 12,
+                    "priceType": "ETH",
+                    "creator": {
+                        "name": "Raritie",
+                        "description": "VR Artist based in Germany",
+                        "urls": {
+                            "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/Raritie.jpg",
+                            "twitter": "",
+                            "instagram": "",
+                            "discord": ""
+                        }
+                    },
+                    "description": "Inspired by the movie Black Swan. Created with Tilt Brush / Open Brush. Model created in DAZ3D",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/raritie_black_swan%20-%20Alena%20Gudorova.glb",
+                        "thumbnail": ""
+                    }
+                },
+                {
+                    "title": "Fish tank",
+                    "price": 12,
+                    "priceType": "ETH",
+                    "creator": {
+                        "name": "NINA",
+                        "description": "Hi I’m 9yrs old VR artist NINA. My world is kinda of unique. I'm expressing it in VR.",
+                        "urls": {
+                            "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/NINA.jpg",
+                            "twitter": "",
+                            "instagram": "",
+                            "discord": ""
+                        }
+                    },
+                    "description": "I wanted to draw this because I’m obsessed with fish and made it orange because orange is hot!",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/Untitled_10%20-%20erika%20baruwa.glb",
+                        "thumbnail": ""
+                    }
+                },
+                {
+                    "title": "fudo myoo",
+                    "price": 12,
+                    "priceType": "ETH",
+                    "creator": {
+                        "name": "YAMAKEI",
+                        "description": "Japanese VRartist",
+                        "urls": {
+                            "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/YAMAKEI.jpg",
+                            "twitter": "",
+                            "instagram": "",
+                            "discord": ""
+                        }
+                    },
+                    "description": "The Acala (Fudo Myoo) is one of the powerful deities known as the Five Bright Kings in Japanese Buddhism and folk religion.",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/Untitled_49%20-%20YAMAKEI.glb",
+                        "thumbnail": ""
+                    }
+                },
+                {
+                    "title": "PHOENIX",
+                    "price": 12,
+                    "priceType": "ETH",
+                    "creator": {
+                        "name": "YAMAKEI",
+                        "description": "Japanese VRartist",
+                        "urls": {
+                            "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/YAMAKEI.jpg",
+                            "twitter": "",
+                            "instagram": "",
+                            "discord": ""
+                        }
+                    },
+                    "description": "It 's a phoenix that appears in Japanese mythology.",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/Untitled_31%20-%20YAMAKEI.glb",
+                        "thumbnail": ""
+                    }
+                },
+                {
+                    "title": "Pachamama",
+                    "price": 12,
+                    "priceType": "ETH",
+                    "creator": {
+                        "name": "Metatronix",
+                        "description": "Metatronix, AKA Angelea Torralva, is a multifaceted self taught artist from Grand Rapids, Michigan. Art in all forms has always been her passion. Torralva started her live painting journey in 2013, painting at all kinds of EDM and DNB events/festivals, which has also included live body painting. Torralva is an established artist in Grand Rapids, Michigan and has had solo and group art shows, as well as an AR/VR exhibit in LA, California. Virtual and augmented reality is her current venture as she hopes to create more immersive and live experiences.",
+                        "urls": {
+                            "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/Metatronix.jpg",
+                            "twitter": "",
+                            "instagram": "",
+                            "discord": ""
+                        }
+                    },
+                    "description": "A depiction of the Goddess, Pachamama, or Mother Earth. She is an Incan deity who presides over planting and harvesting, represents fertility, embodies the mountains and causes earthquakes.",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/Pachamama%20GLB%20-%20Angelea%20Torralva.glb",
+                        "thumbnail": ""
+                    }
+                },
+                {
+                    "title": "Dryad - Tree Spirit",
+                    "price": 12,
+                    "priceType": "ETH",
+                    "creator": {
+                        "name": "SpectralMana",
+                        "description": "VR/XR artist working on artworks inspired by nature and technology. Much of my work is also designed for audio reactivity.",
+                        "urls": {
+                            "picture": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/icon/SpectralMana.jpg",
+                            "twitter": "",
+                            "instagram": "",
+                            "discord": ""
+                        }
+                    },
+                    "description": "This is a dryad, a spirit living within a tree. If sold 10% of the sale will go towards TheGivingBlock's environmental impact fund.",
+                    "originFileGenerator": "Tilt Brush",
+                    "objectData": {
+                        "name": "text",
+                        "offsets": {
+                            "position": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            },
+                            "localScale": {
+                                "x": 10,
+                                "y": 10,
+                                "z": 10
+                            }
+                        }
+                    },
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/gform/SpectralMana_Dryad%20-%20Mana%20M.glb",
+                        "thumbnail": ""
                     }
                 }
             ]
