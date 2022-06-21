@@ -69,7 +69,9 @@
                     },
                     "urls": {
                         "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/busto-costume-tradizionale.glb",
+                        "glb-sha256": "51e0a3fbbae38830553ac6b6e8d17ef7baf17c0e0bfabf3fa4f58e59f5b98adb",
                         "glb-gz": "https://github.com/snowx-com/snowx-glbs/raw/main/busto-costume-tradizionale.glb.gz",
+                        "glb-gz-sha256": "4450b9ee992be311193ab283c9940a3db0db5408b2dad8db4989c195ad3c7111",
                         "thumbnail": "https://github.com/snowx-com/snowx-glbs/raw/main/busto-costume-tradizionale.png"
                     }
                 },
