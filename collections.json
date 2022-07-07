@@ -15,9 +15,9 @@
                     "description": "Here are the pieces we performed at IVS2022 NAHA this time! The theme is Japanese harmony, with a robotic dragon on the left side and a sparkling phoenix on the right side. By depicting a shining Ethereum in a sea of clouds with a dragon and phoenix, which is said to be a good omen, this work is a wish for the future development of Ethereum Web3. Hiyoko Shisho and SaRaN performed this VR art at the opening performance of IVS2022 NAHA.",
                     "urls": {
                         "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/Dragon_and_Phoenix.glb",
-                        "glb-sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                        "glb-sha256": "6a531ca9351775eebe8bbc4ca1ad1b048fd5bf9d712dc26c3b1e784478ec4ab2",
                         "glb-gz": "https://github.com/snowx-com/snowx-glbs/raw/main/Dragon_and_Phoenix.glb.gz",
-                        "glb-gz-sha256": "1da22416fa802721152344bf6b229c0ee294d9dd9811211c3102cf7d155067c5",
+                        "glb-gz-sha256": "8aadd7b4f22255df338abc0d9b8ee161e3a3bd9045d0d69bbaad7c37c4dc23bc",
                         "thumbnail": "https://openseauserdata.com/files/63af89f510829e1b3f2f533648dd18ad.png"
                     },
                     "creator": {
