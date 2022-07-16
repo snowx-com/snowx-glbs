@@ -5,6 +5,60 @@
     "collections": [
         {
             "collection": {
+                "title": "IVS & CAF",
+                "description": "Artworks from IVS and Crypto Art Fes",
+                "icon": "https://nfts.snowx.com/0xb80ca442f74cCd2365d6550eE58e2A3675728925/icon",
+                "creator": "Fumie"
+            },
+            "artworks": [
+                {
+                    "title": "Dragon and Phoenix - IVS2022 NAHA Opening Performance VRArt",
+                    "description": "Here are the pieces we performed at IVS2022 NAHA this time! The theme is Japanese harmony, with a robotic dragon on the left side and a sparkling phoenix on the right side. Hiyoko Shisho and SaRaN performed this VR art at the opening performance of IVS2022 NAHA.",
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/Dragon_and_Phoenix.glb",
+                        "glb-sha256": "6a531ca9351775eebe8bbc4ca1ad1b048fd5bf9d712dc26c3b1e784478ec4ab2",
+                        "glb-gz": "https://github.com/snowx-com/snowx-glbs/raw/main/Dragon_and_Phoenix.glb.gz",
+                        "glb-gz-sha256": "8aadd7b4f22255df338abc0d9b8ee161e3a3bd9045d0d69bbaad7c37c4dc23bc",
+                        "thumbnail": "https://openseauserdata.com/files/63af89f510829e1b3f2f533648dd18ad.png"
+                    },
+                    "creator": {
+                        "name": "HiyokoShisho and SaRaN",
+                        "icon": "https://openseauserdata.com/files/abde95b3d8a44ec50304488f4cf2db22.png"
+                    },
+                    "owner": {
+                        "name": "0x993E33dDF4B25f6B464c769858946e84749aEc7a",
+                        "description": "",
+                        "urls": {
+                            "picture": "https://openseauserdata.com/files/abde95b3d8a44ec50304488f4cf2db22.png"
+                        }
+                    }
+                },
+                {
+                    "title": "SaRaN's CAF Artwork",
+                    "description": "",
+                    "urls": {
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/dev/caf_saran.glb",
+                        "glb-sha256": "58991764aff1a1064be2ef4a3e0ccbe6eda0e96635f7c57b8e74fe38d6382033",
+                        "glb-gz": "https://github.com/snowx-com/snowx-glbs/raw/dev/caf_saran.glb.gz",
+                        "glb-gz-sha256": "e92567042ad8a8bd68a93097c20ee40aee2f4d790a3a4b619548828170c4f4e7",
+                        "thumbnail": "https://openseauserdata.com/files/63af89f510829e1b3f2f533648dd18ad.png"
+                    },
+                    "creator": {
+                        "name": "SaRaN",
+                        "icon": "https://openseauserdata.com/files/abde95b3d8a44ec50304488f4cf2db22.png"
+                    },
+                    "owner": {
+                        "name": "0x993E33dDF4B25f6B464c769858946e84749aEc7a",
+                        "description": "",
+                        "urls": {
+                            "picture": "https://openseauserdata.com/files/abde95b3d8a44ec50304488f4cf2db22.png"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "collection": {
                 "title": "SnowX Featured",
                 "cover": "url",
                 "icon": "url"
