@@ -34,13 +34,13 @@
                     }
                 },
                 {
-                    "title": "SaRaN's CAF Artwork",
+                    "title": "Hiyoko Shisho's CAF Artwork",
                     "description": "",
                     "urls": {
-                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/dev/caf_saran.glb",
-                        "glb-sha256": "58991764aff1a1064be2ef4a3e0ccbe6eda0e96635f7c57b8e74fe38d6382033",
-                        "glb-gz": "https://github.com/snowx-com/snowx-glbs/raw/dev/caf_saran.glb.gz",
-                        "glb-gz-sha256": "e92567042ad8a8bd68a93097c20ee40aee2f4d790a3a4b619548828170c4f4e7",
+                        "glb": "https://github.com/snowx-com/snowx-glbs/raw/dev/caf_piyo.glb",
+                        "glb-sha256": "22f03f814a3ed5b98553feeaa89ec4a95d9feb1cf50dafa69f11a6d7344b2f57",
+                        "glb-gz": "https://github.com/snowx-com/snowx-glbs/raw/dev/caf_piyo.glb.gz",
+                        "glb-gz-sha256": "a39a7c15d807a5c208b7dcdab367c6436017d1322b5f0bfaec150ccabc4a5db9",
                         "thumbnail": "https://openseauserdata.com/files/63af89f510829e1b3f2f533648dd18ad.png"
                     },
                     "creator": {
