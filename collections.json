@@ -11,8 +11,8 @@
             },
             "artworks": [
                 {
-                    "title": "龍鳳呈祥 Dragon and Phoenix - IVS2022 NAHA Opening Performance VRArt",
-                    "description": "Here are the pieces we performed at IVS2022 NAHA this time! The theme is Japanese harmony, with a robotic dragon on the left side and a sparkling phoenix on the right side. By depicting a shining Ethereum in a sea of clouds with a dragon and phoenix, which is said to be a good omen, this work is a wish for the future development of Ethereum Web3. Hiyoko Shisho and SaRaN performed this VR art at the opening performance of IVS2022 NAHA.",
+                    "title": "Dragon and Phoenix - IVS2022 NAHA Opening Performance VRArt",
+                    "description": "Here are the pieces we performed at IVS2022 NAHA this time! The theme is Japanese harmony, with a robotic dragon on the left side and a sparkling phoenix on the right side. Hiyoko Shisho and SaRaN performed this VR art at the opening performance of IVS2022 NAHA.",
                     "urls": {
                         "glb": "https://github.com/snowx-com/snowx-glbs/raw/main/Dragon_and_Phoenix.glb",
                         "glb-sha256": "6a531ca9351775eebe8bbc4ca1ad1b048fd5bf9d712dc26c3b1e784478ec4ab2",
@@ -55,6 +55,11 @@
                             "instagram": "giuseppe_delogu___",
                             "discord": "url"
                         }
+                    },
+                    "purchaseTransactionData": {
+                        "data": "0xa1448194000000000000000000000000179974a3f72464949e0269af45cac14fa14daf4b0000000000000000000000000000000000000000000000000000000000000004",
+                        "to": "0x1d556e17437dc72673c518cdbedde29b3848ffb1",
+                        "value": "0"
                     },
                     "description": "Busto Costume Tradizionale",
                     "originFileGenerator": "Tilt Brush",
