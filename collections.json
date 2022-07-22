@@ -1,7 +1,7 @@
 {
-    "version": "1657173199",
+    "version": "1658500881",
     "chainId": 4,
-    "whatsnew": "Dragon and Phoenix",
+    "whatsnew": "nanakusa test",
     "collections": [
         {
             "collection": {
@@ -30,6 +30,18 @@
                         "urls": {
                             "picture": "https://openseauserdata.com/files/abde95b3d8a44ec50304488f4cf2db22.png"
                         }
+                    }
+                },
+                {
+                    "title": "Yatagarasu - 八咫烏 - ",
+                    "description": "Limited 1/1 , VR painting \r\n\r\nKnown as the three-legged raven, the Yatagarasu, \r\nIt is also known as the incarnation of guidance, which appears at important junctures.\r\n\r\n八咫烏は 重要な局面にあらわれる。\r\n大きな美しい羽の下には それぞれの双子のろくろ首がいて\r\n花の香りと 風の囁き声をたよりに カナリヤの無事を確認し 前へ前へとまた旅にでてゆく\r\n \r\n\r\n1. No transfer of copyrights\r\nWhile the purchaser will acquire ownership of the NFT, copyrights, trademark rights and other intellectual property rights will not be transferred to the purchaser, and will continue to be owned by the issuer (legitimate right holder who created the work). (Transfer of copyrights is described in the metadata of the NFT.)\r\n\r\n2. Commercial use\r\n(No commercial use)\r\nThe use or provision of a part or all of the images, videos, music, etc. of the NFT for the following purposes will constitute an infringement of intellectual property rights, and is prohibited:\r\n1.provision to others beyond the scope of domestic use;\r\n2.commercial use (including use in goods, etc.); and\r\n3.use of images, videos, music, etc. included in the NFT upon modifying or processing such images, videos, music, etc.\r\nThe NFT may be used in the contents (games and metaverses) provided by a business operator affiliated with nanakusa.\r\nIf the purchaser or a subsequent purchaser or any other third party suffers any damage in relation to the purchase or trading of the NFT, irrespective of the cause of such damage, the issuer will not bear any kind of legal responsibility.\r\n\r\n3.Downloading of NFT File\r\n(Downloadable)\r\nThe File of the NFT may be downloaded and stored by the purchaser only in his/her local PC or other storage device, etc.\r\n\r\n4.License for creator to use NFT in introducing one’s own work\r\nWhile the purchaser will acquire ownership of the NFT, the purchaser shall grant a license to the creator holding copyrights in the NFT so that such creator can introduce one’s work in his/her creative activities and in the exhibition and portfolio of one’s work.\r\n\r\n5.Ownership of actual creative product\r\nWhile the purchaser will acquire ownership of the NFT, when there is an actual creative product, the purchaser shall not have ownership of such actual creative product.\r\n\r\n1. 著作権の譲渡不可\r\n購入者はNFTの所有権を取得しますが、著作権、商標権等の知的財産権は購入者に移転せず、引き続き発行者（著作物を創作した正当な権利者）が所有します。(著作権の譲渡については、NFTのメタデータに記載されています)。\r\n\r\n2. 商業利用\r\n(営利を目的とした利用はできません）\r\nNFTの画像、映像、音楽等の一部または全部を以下の目的で使用または提供することは、知的財産権の侵害となり、禁止されています。\r\n1.国内利用の範囲を超えて、他者に提供すること。\r\n2.商業的利用（商品等への利用を含む）。\r\n3.NFTに含まれる画像、映像、音楽等を改変、加工して使用すること。\r\nNFTは、nanakusaと提携する事業者が提供するコンテンツ（ゲーム、メタバーズ）において使用することができます。\r\nNFTの購入または取引に関連して、購入者または後発購入者その他の第三者が損害を被った場合、その原因の如何を問わず、発行者は何らの法的責任を負わないものとします。\r\n\r\n3.NFTファイルのダウンロード\r\n(ダウンロード)\r\nNFTのファイルは、購入者がダウンロードし、購入者のローカルPCまたはその他の記憶装置等にのみ保存することができます。\r\n\r\n4.制作者が自作品を紹介するためにNFTを使用するライセンス\r\n購入者は、NFTの所有権を取得しますが、NFTの著作権を有するクリエイターに対し、当該クリエイターが創作活動および作品の展示・発表において作品を紹介できるよう、ライセンスを付与するものとします。\r\n\r\n5.創作物に対する所有権\r\n購入者は、NFTの所有権を取得しますが、実際の創作物がある場合には、購入者は、当該創作物の所有権を有しないものとします。",
+                    "urls": {
+                        "glb": "https://metadata.nanakusa.io/image/1649247358429.glb",
+                        "thumbnail": "https://metadata.nanakusa.io/image/1649247358429_thumbnail.png"
+                    },
+                    "creator": {
+                        "name": "Torazo",
+                        "icon": ""
                     }
                 },
                 {
